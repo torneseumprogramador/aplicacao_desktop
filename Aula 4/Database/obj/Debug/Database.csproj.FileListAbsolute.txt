@@ -1,0 +1,6 @@
+C:\Users\carrefour\source\repos\WindowsFormsApp1\Database\bin\Debug\Database.dll
+C:\Users\carrefour\source\repos\WindowsFormsApp1\Database\bin\Debug\Database.pdb
+C:\Users\carrefour\source\repos\WindowsFormsApp1\Database\obj\Debug\Database.csprojResolveAssemblyReference.cache
+C:\Users\carrefour\source\repos\WindowsFormsApp1\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\carrefour\source\repos\WindowsFormsApp1\Database\obj\Debug\Database.dll
+C:\Users\carrefour\source\repos\WindowsFormsApp1\Database\obj\Debug\Database.pdb

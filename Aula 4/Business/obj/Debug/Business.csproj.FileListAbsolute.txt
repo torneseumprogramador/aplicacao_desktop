@@ -1,0 +1,8 @@
+C:\Users\carrefour\source\repos\WindowsFormsApp1\Business\bin\Debug\Business.dll
+C:\Users\carrefour\source\repos\WindowsFormsApp1\Business\bin\Debug\Business.pdb
+C:\Users\carrefour\source\repos\WindowsFormsApp1\Business\bin\Debug\Database.dll
+C:\Users\carrefour\source\repos\WindowsFormsApp1\Business\bin\Debug\Database.pdb
+C:\Users\carrefour\source\repos\WindowsFormsApp1\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\carrefour\source\repos\WindowsFormsApp1\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\carrefour\source\repos\WindowsFormsApp1\Business\obj\Debug\Business.dll
+C:\Users\carrefour\source\repos\WindowsFormsApp1\Business\obj\Debug\Business.pdb

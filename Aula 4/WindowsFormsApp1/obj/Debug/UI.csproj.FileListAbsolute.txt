@@ -1,0 +1,14 @@
+C:\Users\carrefour\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\carrefour\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\carrefour\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\carrefour\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Business.dll
+C:\Users\carrefour\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Database.dll
+C:\Users\carrefour\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Business.pdb
+C:\Users\carrefour\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Database.pdb
+C:\Users\carrefour\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\carrefour\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmPessoa.resources
+C:\Users\carrefour\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\carrefour\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\carrefour\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\carrefour\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\carrefour\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
